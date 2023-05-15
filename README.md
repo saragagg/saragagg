@@ -22,7 +22,7 @@
 
 ---
 
-- 🔭 I’m currently working on **_my portfolio page_**
+- 🔭 I’m currently working on **_Dictionarium app_**
 - 🌱 I’m currently learning **_Next.js, TypeScript_**
 - 📫 How to reach me: **_saragaggino@gmail.com_** or <a href="https://www.linkedin.com/in/sara-gaggino/">message me on Linkedin</a>
 - ⚡ Fun fact: I am scared of **_pigs_** 🐽😧
